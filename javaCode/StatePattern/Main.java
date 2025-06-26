@@ -1,4 +1,4 @@
-package java.StatePattern;
+package javaCode.StatePattern;
 
 public class Main {
     public static void main(String[] args) {

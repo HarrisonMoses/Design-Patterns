@@ -1,4 +1,4 @@
-package java.StatePattern;
+package javaCode.StatePattern;
 
 public class FillTool implements State {
     @Override

@@ -1,4 +1,4 @@
-package java.AdapterPattern;
+package javaCode.AdapterPattern;
 
 class Hospital implements hospitalInterface {
 

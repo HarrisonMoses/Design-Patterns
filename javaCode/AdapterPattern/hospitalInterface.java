@@ -1,4 +1,4 @@
-package java.AdapterPattern;
+package javaCode.AdapterPattern;
 
 interface hospitalInterface {
     void getPatientDetails(int patientId);   

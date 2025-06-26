@@ -1,4 +1,4 @@
-package java.StatePattern;
+package javaCode.StatePattern;
 
 public class BrushTool implements State {
     

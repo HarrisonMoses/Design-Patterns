@@ -1,4 +1,4 @@
-package java.StatePattern;
+package javaCode.StatePattern;
 
 public interface State {
     void mousePressed();

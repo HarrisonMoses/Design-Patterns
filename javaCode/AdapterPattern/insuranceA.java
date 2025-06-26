@@ -1,4 +1,4 @@
-package java.AdapterPattern;
+package javaCode.AdapterPattern;
 
 // This another companies code which we cannot change
 
